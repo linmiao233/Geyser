@@ -1,4 +1,4 @@
-package org.geysermc.common;
+package org.geysermc.common;1
 
 import lombok.Getter;
 
